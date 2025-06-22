@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Assign_Suite">
+  <test thread-count="5" name="Test_Assign">
+    <classes>
+      <class name="Pack2.class_56_testcasegrouping"/>
+      <class name="Pack2.class_56_testcasegrouping3"/>
+      <class name="Pack2.class_56_testcasegrouping2"/>
+      <class name="Pack2.Class_61_Rety_autosuggestion"/>
+    </classes>
+  </test> <!-- Test_Assign -->
+</suite> <!-- Assign_Suite -->

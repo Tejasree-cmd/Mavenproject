@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Assign_Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test_Assign(failed)">
+    <classes>
+      <class name="Pack2.Class_61_Rety_autosuggestion">
+        <methods>
+          <include name="amazonautosuggest"/>
+        </methods>
+      </class> <!-- Pack2.Class_61_Rety_autosuggestion -->
+    </classes>
+  </test> <!-- Test_Assign(failed) -->
+</suite> <!-- Failed suite [Assign_Suite] -->

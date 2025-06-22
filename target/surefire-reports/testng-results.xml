@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="9" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-22T11:29:10 IST" name="Suite" finished-at="2025-06-22T11:29:10 IST" duration-ms="56">
+    <groups>
+      <group name="system">
+        <method signature="class_56_testcasegrouping.testcase3()[pri:0, instance:Pack2.class_56_testcasegrouping@15ff3e9e]" name="testcase3" class="Pack2.class_56_testcasegrouping"/>
+        <method signature="class_56_testcasegrouping2.testcase6()[pri:0, instance:Pack2.class_56_testcasegrouping2@6aba2b86]" name="testcase6" class="Pack2.class_56_testcasegrouping2"/>
+        <method signature="class_56_testcasegrouping3.testcase8()[pri:0, instance:Pack2.class_56_testcasegrouping3@3ce1e309]" name="testcase8" class="Pack2.class_56_testcasegrouping3"/>
+        <method signature="class_56_testcasegrouping3.testcase9()[pri:0, instance:Pack2.class_56_testcasegrouping3@3ce1e309]" name="testcase9" class="Pack2.class_56_testcasegrouping3"/>
+      </group> <!-- system -->
+      <group name="smoke">
+        <method signature="class_56_testcasegrouping.testcase3()[pri:0, instance:Pack2.class_56_testcasegrouping@15ff3e9e]" name="testcase3" class="Pack2.class_56_testcasegrouping"/>
+        <method signature="class_56_testcasegrouping2.testcase6()[pri:0, instance:Pack2.class_56_testcasegrouping2@6aba2b86]" name="testcase6" class="Pack2.class_56_testcasegrouping2"/>
+        <method signature="class_56_testcasegrouping3.testcase9()[pri:0, instance:Pack2.class_56_testcasegrouping3@3ce1e309]" name="testcase9" class="Pack2.class_56_testcasegrouping3"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2025-06-22T11:29:10 IST" name="TestSmokemuticlasses" finished-at="2025-06-22T11:29:10 IST" duration-ms="56">
+      <class name="Pack2.class_56_testcasegrouping">
+        <test-method signature="testcase3()[pri:0, instance:Pack2.class_56_testcasegrouping@15ff3e9e]" started-at="2025-06-22T11:29:10 IST" name="testcase3" finished-at="2025-06-22T11:29:10 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- Pack2.class_56_testcasegrouping -->
+      <class name="Pack2.class_56_testcasegrouping3">
+        <test-method signature="testcase8()[pri:0, instance:Pack2.class_56_testcasegrouping3@3ce1e309]" started-at="2025-06-22T11:29:10 IST" name="testcase8" finished-at="2025-06-22T11:29:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase8 -->
+        <test-method signature="testcase9()[pri:0, instance:Pack2.class_56_testcasegrouping3@3ce1e309]" started-at="2025-06-22T11:29:10 IST" name="testcase9" finished-at="2025-06-22T11:29:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase9 -->
+      </class> <!-- Pack2.class_56_testcasegrouping3 -->
+      <class name="Pack2.class_56_testcasegrouping2">
+        <test-method signature="testcase6()[pri:0, instance:Pack2.class_56_testcasegrouping2@6aba2b86]" started-at="2025-06-22T11:29:10 IST" name="testcase6" finished-at="2025-06-22T11:29:10 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+      </class> <!-- Pack2.class_56_testcasegrouping2 -->
+    </test> <!-- TestSmokemuticlasses -->
+  </suite> <!-- Suite -->
+</testng-results>
