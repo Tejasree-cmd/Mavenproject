@@ -18,12 +18,14 @@
 
   
 <dependencies>
+<!--
     <dependency>
     <groupId>org.junit.jupiter</groupId>
     <artifactId>junit-jupiter</artifactId>
-    <version>5.10.0</version> <!-- or latest stable -->
+    <version>5.10.0</version> 
     <scope>test</scope>
 </dependency>
+-->
 
  <dependency>
         <groupId>com.aventstack</groupId>
@@ -82,6 +84,7 @@
 							<suiteXmlFile>testngSmokewithdiffclasses.xml</suiteXmlFile>
 							<!--suiteXmlFile>target\surefire-reports\testng-failed.xml</suiteXmlFile-->
 						</suiteXmlFiles>
+						<testNGArtifactName>org.testng:testng</testNGArtifactName>
 					</configuration>
 				</plugin>
 
